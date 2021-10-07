@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `Assumptions made`
+- Due to time, most css styles are inline and on the UI/UX part, i have considered only the layout
+
+
+### `Further steps if this project was real`
+- I would add more metrics such finding the average and the median
+- I would work on styles and make the UI appear like the mock up
+- More code refactoring
+
 ## Available Scripts
 
 In the project directory, you can run:
